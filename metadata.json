@@ -1,0 +1,6 @@
+{
+  "name": "Kalp & Ajanda - Planlayıcı ve Sevgiliye Hediye Web Sayfası Stüdyosu",
+  "description": "Kişisel günlük planlarınızı yönetin ve sevgilinize unutamayacağı interaktif, romantik hediye web sayfaları hazırlayıp paylaşın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
